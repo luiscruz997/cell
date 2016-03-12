@@ -3,7 +3,7 @@
 http://0.0.0.0:1234
 #EXTM3U
 
-#EXTINF:-1,M6
+#EXTINF:-1, TEST M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,America Latina Music
 http://streaming206.radionomy.com:80/DaryAir

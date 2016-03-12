@@ -3,11 +3,6 @@
 http://0.0.0.0:1234
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“MUSIC”,[COLOR pink]((MUSIC ))[/COLOR]
-http://0.0.0.0:1234
-
-
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,America Latina Music

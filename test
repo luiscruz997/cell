@@ -3,11 +3,3 @@
 http://0.0.0.0:1234
 #EXTM3U
 
-#EXTINF:-1, TEST M6
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
-#EXTINF:-1,America Latina Music
-http://streaming206.radionomy.com:80/DaryAir
-#EXTINF:0,DJING
-http://www.djing.com/tv/live.m3u8
-#EXTINF:0,NON STOP VIDEOS-
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
